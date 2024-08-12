@@ -1,0 +1,16 @@
+{
+  "name": "knn-tf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.20.0",
+    "lodash": "^4.17.21",
+    "shuffle-seed": "^1.1.6"
+  }
+}
